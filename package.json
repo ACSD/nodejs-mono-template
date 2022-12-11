@@ -1,0 +1,11 @@
+{
+    "name": "nodejs-mono-template",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ],
+    "scripts": {
+        "lint": ""
+    },
+    "version": "0.0.0"
+}
